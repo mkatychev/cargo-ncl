@@ -1,7 +1,7 @@
 {
-  name = "nickel-schemastore",
+  name = "cargo-ncl",
   version = "0.1.0",
-  description = "Nickel contracts for linting carg workspaces",
+  description = "Nickel contracts for linting cargo workspaces",
   authors = [
     "Mikhail Katychev",
   ],
